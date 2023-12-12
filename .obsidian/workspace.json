@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/test note.md",
+                "file": "a/Wagwan.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/test note.md",
+                "file": "a/Wagwan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/test note.md",
+                "file": "a/Wagwan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/test note.md"
+                "file": "a/Wagwan.md"
               }
             }
           },
@@ -163,9 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76177d01de0c5a9d",
+  "active": "c5b6feed6065462c",
   "lastOpenFiles": [
     "Untitled/test note.md",
+    "a/Wagwan.md",
+    "a",
     "Untitled",
     "Repository"
   ]
