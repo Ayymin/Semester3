@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "c5b6feed6065462c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76177d01de0c5a9d",
+  "active": "cb8f98753870223d",
   "lastOpenFiles": [
     "Untitled",
     "Repository"
