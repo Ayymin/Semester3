@@ -25,8 +25,8 @@ Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den 
 * Højere mulighed for databrud, da alt data er koncentreret i et enkelt sted. Derfor skal anvendere af det centrale driftssystem lave store overvejelser når det kommer til sikkerhed. 
 
 **I praksis**
-Den centrale driftsmodel kan ses i forskellige sektorer, heriblandt finanssektoren. Banker gemmer på store mængder af data, heriblandt kundeoplysninger, transaktioner og andre former for kritiske oplysninger. Banker er notoriske 
-
+Den centrale driftsmodel kan ses i forskellige sektorer, heriblandt finanssektoren. Banker gemmer på store mængder af data, heriblandt kundeoplysninger, transaktioner og andre former for kritiske oplysninger. Banker er notoriske for at bruge betydelige mængder af ressourcer når det kommer til sikkerhed. 
+* Kryptering og to-faktor-autentificering og regelmæssige sikkerhedsgennemgange for at beskytte data. 
 
 
 
