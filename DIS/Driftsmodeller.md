@@ -25,7 +25,8 @@ Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den 
 * Højere mulighed for databrud, da alt data er koncentreret i et enkelt sted. Derfor skal anvendere af det centrale driftssystem lave store overvejelser når det kommer til sikkerhed. 
 
 **I praksis**
-Den centrale driftsmodel 
+Den centrale driftsmodel kan ses i forskellige sektorer, heriblandt finanssektoren. 
+
 
 
 
