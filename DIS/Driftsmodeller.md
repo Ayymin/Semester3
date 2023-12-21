@@ -8,7 +8,7 @@ design og implementering af IT-systemer
 ### <mark class="hltr-green">De tre driftsmodeller
 </mark>
 #### <mark class="hltr-red">Central</mark>
-**Redegørelse:**
+<mark class="hltr-cyan">**Redegørelse</mark>:**
 Den central driftsmodel er et simpelt koncept som tyder på en central processorkraft/mainframe, med flere nodes eller klienter som opretter forbindelser til denne ene mainframe. 
 Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den eneste processorkraft som bruges til at udregne komplekse beregninger eller opfylde behov. 
 
@@ -19,6 +19,7 @@ Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den 
 **Ulemper**
 * Single Point of Failure, hvis den centrale enhed svigter, lammer det hele systemet. 
 * Høj afhængighed, da alle klienter regner med en central mainframe, hvilket kan skabe flaskehalse. 
+* Højere mulighed for databrud, da alt data er koncentreret i et enkelt sted
 
 
 
