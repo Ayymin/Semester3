@@ -18,7 +18,7 @@ Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den 
 
 **Ulemper**
 * Single Point of Failure, hvis den centrale enhed svigter, lammer det hele systemet. 
-* 
+* Høj afhængighed, da alle klienter regner med en central mainframe, hvilket kan skabe flaskehalse. 
 
 
 
