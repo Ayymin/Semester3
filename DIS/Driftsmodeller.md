@@ -17,6 +17,7 @@ Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den 
 **Fordele**
 * Enklere infrastrukturer, da det er nemmere at sætte op end sine driftsmodel fættere (Decentral og Distribueret)
 * Enklere sikkerhedsopsætning, mere strømlinet overvågning og sikkerhedsforanstaltninger. Dette gøre det også billigere. 
+* Let integration til andre systemer
 
 **Ulemper**
 * Single Point of Failure, hvis den centrale enhed svigter, lammer det hele systemet. 
