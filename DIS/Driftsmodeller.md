@@ -22,8 +22,10 @@ Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den 
 **Ulemper**
 * Single Point of Failure, hvis den centrale enhed svigter, lammer det hele systemet. 
 * Høj afhængighed, da alle klienter regner med en central mainframe, hvilket kan skabe flaskehalse. 
-* Højere mulighed for databrud, da alt data er koncentreret i et enkelt sted
+* Højere mulighed for databrud, da alt data er koncentreret i et enkelt sted. Derfor skal anvendere af det centrale driftssystem lave store overvejelser når det kommer til sikkerhed. 
 
+**I praksis**
+Den centrale driftsmodel 
 
 
 
