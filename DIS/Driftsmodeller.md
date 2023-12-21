@@ -8,7 +8,7 @@ design og implementering af IT-systemer
 ### De tre driftsmodeller
 
 #### Central
-Den central driftsmodel er et simpelt koncept som tyder på en central processorkraft, med flere 
+Den central driftsmodel er et simpelt koncept som tyder på en central processorkraft/mainframe, med flere nodes eller klienter som opretter forbindelser til denne ene mainframe. 
 
 #### Decentral
 
