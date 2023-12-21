@@ -8,6 +8,7 @@ design og implementering af IT-systemer
 ### De tre driftsmodeller
 
 #### Central
+Den central driftsmodel er et simpelt koncept som tyder på en central processorkraft, med flere 
 
 #### Decentral
 
