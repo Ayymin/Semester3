@@ -7,3 +7,8 @@ design og implementering af IT-systemer
 
 ### De tre driftsmodeller
 
+#### Central
+
+#### Decentral
+
+#### Distribueret
