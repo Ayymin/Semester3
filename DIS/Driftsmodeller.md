@@ -13,8 +13,12 @@ Den central driftsmodel er et simpelt koncept som tyder på en central processor
 Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den eneste processorkraft som bruges til at udregne komplekse beregninger eller opfylde behov. 
 
 **Fordele**
-* Enklere infrastrukturer, da det er nemmere at sætte op end sine driftsmodel fættere (Decentral og Distrubueret)
-* Nemmere og spare
+* Enklere infrastrukturer, da det er nemmere at sætte op end sine driftsmodel fættere (Decentral og Distribueret)
+* Enklere sikkerhedsopsætning, mere strømlinet overvågning og sikkerhedsforanstaltninger. Dette gøre det også billigere. 
+
+**Ulemper**
+* Single Point of Failure, hvis den centrale enhed svigter, lammer det hele systemet. 
+* 
 
 
 
