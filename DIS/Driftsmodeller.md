@@ -27,6 +27,7 @@ Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den 
 **I praksis**
 Den centrale driftsmodel kan ses i forskellige sektorer, heriblandt finanssektoren. Banker gemmer på store mængder af data, heriblandt kundeoplysninger, transaktioner og andre former for kritiske oplysninger. Banker er notoriske for at bruge betydelige mængder af ressourcer når det kommer til sikkerhed. 
 * Kryptering og to-faktor-autentificering og regelmæssige sikkerhedsgennemgange for at beskytte data. 
+* Banker er også et godt eksempel på let integration med andre systemer, her kan man tænke på mobilepay. 
 
 
 
