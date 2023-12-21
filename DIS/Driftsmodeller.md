@@ -12,8 +12,9 @@ design og implementering af IT-systemer
 Den central driftsmodel er et simpelt koncept som tyder på en central processorkraft/mainframe, med flere nodes eller klienter som opretter forbindelser til denne ene mainframe. 
 Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den eneste processorkraft som bruges til at udregne komplekse beregninger eller opfylde behov. 
 
-**Pros**
-Nemmere at sætte op i kontrast til sine driftsmodel fættere (Decentral og Distruberet)
+**Fordele**
+* Enklere infrastrukturer, da det er nemmere at sætte op end sine driftsmodel fættere (Decentral og Distrubueret)
+* Nemmere og spare
 
 
 
