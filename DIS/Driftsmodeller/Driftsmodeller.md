@@ -33,6 +33,6 @@ Den centrale driftsmodel kan ses i forskellige sektorer, heriblandt finanssektor
 
 
 #### <mark class="hltr-yellow">Decentral</mark>
-
+![[chrome_MLyh9BeA7t.png]]
 
 #### <mark class="hltr-green">Distribueret</mark>
