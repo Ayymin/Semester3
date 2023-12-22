@@ -23,6 +23,7 @@ Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den 
 * Single Point of Failure, hvis den centrale enhed svigter, lammer det hele systemet. 
 * Høj afhængighed, da alle klienter regner med en central mainframe, hvilket kan skabe flaskehalse. 
 * Højere mulighed for databrud, da alt data er koncentreret i et enkelt sted. Derfor skal anvendere af det centrale driftssystem lave store overvejelser når det kommer til sikkerhed. 
+* Forøget svartid, skyldes af tryk på netværket. 
 
 **I praksis**
 Den centrale driftsmodel kan ses i forskellige sektorer, heriblandt finanssektoren. Banker gemmer på store mængder af data, heriblandt kundeoplysninger, transaktioner og andre former for kritiske oplysninger. Banker er notoriske for at bruge betydelige mængder af ressourcer når det kommer til sikkerhed. 
