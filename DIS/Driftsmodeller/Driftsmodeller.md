@@ -38,6 +38,7 @@ Den centrale driftsmodel kan ses i forskellige sektorer, heriblandt finanssektor
 Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adskiller sig ved at distribuere processorkraft og data over flere enheder, i stedet for at have alt samlet på en central enhed. Det skal dog pointeres at den stadig har kendetegn på det centrale, dog med processorkraft jævnt fordelt. 
 
 <mark class="hltr-orange">Fordele</mark>
-* Billigere, da i modsætning til central, så 
+* Billigere, da i modsætning til central, så kræver små datamater ikke så mange penge i modsætning til de meget dyrere og komplekse mainframes som kendetegnet i Central. 
+* Autonomi, enkelte brugere har mere kontrol over deres data, da det ikke er koncentreret på en central enhed. 
 
 #### <mark class="hltr-green">Distribueret</mark>
