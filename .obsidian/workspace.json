@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "DIS/Driftsmodeller/Driftsmodeller/Driftsmodeller.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -177,10 +177,10 @@
   },
   "active": "ab0467dcbe3f0aec",
   "lastOpenFiles": [
-    "OpgaverDriftmodeller.pdf",
     "DIS/Driftsmodeller/Referencepunkter.md",
-    "DIS/Driftsmodeller/Driftsmodeller/Images/DriftmodellerB_PP.pdf",
     "DIS/Driftsmodeller/Driftsmodeller/Driftsmodeller.md",
+    "OpgaverDriftmodeller.pdf",
+    "DIS/Driftsmodeller/Driftsmodeller/Images/DriftmodellerB_PP.pdf",
     "DIS/Driftsmodeller/Driftsmodeller/Images/Central.png",
     "DIS/Driftsmodeller/Driftsmodeller/Images/DecentralModel.png",
     "Untitled.md",
