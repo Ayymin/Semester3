@@ -9,7 +9,7 @@ design og implementering af IT-systemer
 </mark>
 #### <mark class="hltr-red">Central</mark>
 
-![[chrome_9w0xktCisQ.png|325]]
+![[Central.png|325]]
 **<mark class="hltr-pink">Redegørelse</mark>**
 Den central driftsmodel er et simpelt koncept som tyder på en central processorkraft/mainframe, med flere nodes eller klienter som opretter forbindelser til denne ene mainframe. 
 Klienterne er afhængige af denne store "kahuna", da det i virkeligheden er den eneste processorkraft som bruges til at udregne komplekse beregninger eller opfylde behov. 
@@ -55,3 +55,5 @@ Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adski
 Grundstenen i den distribueret driftsmodel er den decentrale model, hvor maskinerne nu blot forbindes med telekommunikationsforbindelser, således at man online kan se og opdatere hinandens data, således at man opnår dataaktuelitet. Denne model har været i vækst i omtrent 20 år, hvor man før i tiden var nødt til at bygge en distribueret løsning næsten fra bunden, hvilket var dyrt.
 
 <mark class="hltr-cyan">Fordele</mark>
+* God dataaktuelitet, muligheden for direkte kommunikation mellem enheder kan bidrage til bedre og hurtigere opdatering af data på tværs af systemet. 
+* 

@@ -31,11 +31,9 @@
             "id": "ab0467dcbe3f0aec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DIS/Driftsmodeller/Driftsmodeller.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Driftsmodeller/chrome_9w0xktCisQ.png"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Driftsmodeller/Driftsmodeller.md",
+                "file": "Images/Driftsmodeller/chrome_9w0xktCisQ.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Driftsmodeller/Driftsmodeller.md",
+                "file": "Images/Driftsmodeller/chrome_9w0xktCisQ.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Driftsmodeller/Driftsmodeller.md"
+                "file": "Images/Driftsmodeller/chrome_9w0xktCisQ.png"
               }
             }
           },
@@ -177,17 +175,18 @@
   },
   "active": "ab0467dcbe3f0aec",
   "lastOpenFiles": [
-    "DecentralModel.png",
-    "chrome_MLyh9BeA7t.png",
-    "chrome_9w0xktCisQ.png",
-    "DriftmodellerB_PP.pdf",
-    "Untitled.md",
+    "Images/Driftsmodeller/chrome_MLyh9BeA7t.png",
+    "Images/Driftsmodeller/DecentralModel.png",
+    "Images/Driftsmodeller/DriftmodellerB_PP.pdf",
+    "Images/Driftsmodeller/chrome_9w0xktCisQ.png",
     "DIS/Driftsmodeller/Driftsmodeller.md",
+    "Images/Driftsmodeller",
+    "Images",
+    "Untitled.md",
     "DIS/Driftsmodeller/Referencepunkter.md",
     "DIS/Driftsmodeller",
     "Untitled/test note.md",
     "DIS",
-    "Untitled",
     "Repository"
   ]
 }
