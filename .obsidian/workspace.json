@@ -16,31 +16,37 @@
             }
           },
           {
-            "id": "69e2a420ffed6e2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIS/Driftsmodeller/Driftsmodeller/Driftsmodeller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ab0467dcbe3f0aec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Applikationslaget/Untitled.md",
+                "file": "DIS/Applikationslaget emne/Applikationslager.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "788e18685d808761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69e2a420ffed6e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Applikationslaget/Untitled.md",
+                "file": "DIS/Applikationslaget emne/Applikationslager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Applikationslaget/Untitled.md",
+                "file": "DIS/Applikationslaget emne/Applikationslager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Applikationslaget/Untitled.md"
+                "file": "DIS/Applikationslaget emne/Applikationslager.md"
               }
             }
           },
@@ -177,21 +183,21 @@
   },
   "active": "ab0467dcbe3f0aec",
   "lastOpenFiles": [
-    "DIS/Driftsmodeller/Driftsmodeller/Driftsmodeller.md",
-    "DIS/Applikationslaget/Untitled.md",
-    "DIS/Applikationslaget",
+    "DIS/Driftsmodeller emne/Driftsmodeller.md",
+    "DIS/Applikationslaget emne/Applikationslager.md",
+    "DIS/Driftsmodeller emne/Referencepunkter.md",
+    "DIS/Applikationslaget emne",
     "DIS/Untitled.md",
     "DIS/Application layer.md",
-    "DIS/Driftsmodeller/Referencepunkter.md",
     "OpgaverDriftmodeller.pdf",
-    "DIS/Driftsmodeller/Driftsmodeller/Images/DriftmodellerB_PP.pdf",
-    "DIS/Driftsmodeller/Driftsmodeller/Images/Central.png",
-    "DIS/Driftsmodeller/Driftsmodeller/Images/DecentralModel.png",
+    "DIS/Driftsmodeller emne/Images/DriftmodellerB_PP.pdf",
+    "DIS/Driftsmodeller emne/Images/Central.png",
+    "DIS/Driftsmodeller emne/Images/DecentralModel.png",
     "Untitled.md",
     "Images/Driftsmodeller/chrome_MLyh9BeA7t.png",
-    "DIS/Driftsmodeller/Driftsmodeller",
-    "DIS/Driftsmodeller/Driftsmodeller/Images",
-    "DIS/Driftsmodeller",
+    "DIS/Driftsmodeller emne/Driftsmodeller",
+    "DIS/Driftsmodeller emne/Images",
+    "DIS/Driftsmodeller emne",
     "Untitled/test note.md",
     "DIS",
     "Repository"
