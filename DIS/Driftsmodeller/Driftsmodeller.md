@@ -62,3 +62,6 @@ Grundstenen i den distribueret driftsmodel er den decentrale model, hvor maskine
 <mark class="hltr-cyan">Ulemper</mark>
 * Kræver WAN, da man ikke vil kunne udveksle data mellem enheder. Hvilket vil sige at der kræves konstant forbindelse og kan yderligere begrænses på baggrund af svartid.
 * Krav på EDB personale (Elektronisk Databehandlings personale) som skal stå for administration og vedligeholde af enheder. 
+* Vanskelligere installation og udskiftning af program. Det kan være for mange kødboller i suppen. 
+
+
