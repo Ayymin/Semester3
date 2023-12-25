@@ -31,11 +31,9 @@
             "id": "ab0467dcbe3f0aec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DIS/Driftsmodeller/Driftsmodeller.md",
-                "mode": "source",
-                "source": false
+                "file": "chrome_MLyh9BeA7t 1.png"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Driftsmodeller/Driftsmodeller.md",
+                "file": "chrome_MLyh9BeA7t 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Driftsmodeller/Driftsmodeller.md",
+                "file": "chrome_MLyh9BeA7t 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Driftsmodeller/Driftsmodeller.md"
+                "file": "chrome_MLyh9BeA7t 1.png"
               }
             }
           },
@@ -175,12 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab0467dcbe3f0aec",
+  "active": "76177d01de0c5a9d",
   "lastOpenFiles": [
+    "DIS/Driftsmodeller/Driftsmodeller.md",
     "chrome_MLyh9BeA7t 1.png",
     "chrome_MLyh9BeA7t.png",
     "DIS/Driftsmodeller/Referencepunkter.md",
-    "DIS/Driftsmodeller/Driftsmodeller.md",
     "DIS/Driftsmodeller",
     "Untitled.md",
     "DriftmodellerB_PP.pdf",
