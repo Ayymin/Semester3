@@ -50,3 +50,4 @@ Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adski
 * Logistik og Supply Chain Management, her anvendes den decentrale model til at spore forsendelser, transaktioner og forbedre sporingen af varer gennem forskellige led. 
 * IoT (Internet of Things), enhederne kommunikere direkte med hinanden uden at være afhængige af en central enhed. 
 #### <mark class="hltr-green">Distribueret</mark>
+
