@@ -31,9 +31,8 @@ Den centrale driftsmodel kan ses i forskellige sektorer, heriblandt finanssektor
 * Banker er også et godt eksempel på let integration med andre systemer, her kan man tænke på mobilepay. 
 
 
-
 #### <mark class="hltr-yellow">Decentral</mark>
-
+![[chrome_MLyh9BeA7t 1.png|321]]
 <mark class="hltr-orange">Redegørelse</mark>
 Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adskiller sig ved at distribuere processorkraft og data over flere enheder, i stedet for at have alt samlet på en central enhed. Det skal dog pointeres at den stadig har kendetegn på det centrale, dog med processorkraft jævnt fordelt. 
 
@@ -44,5 +43,6 @@ Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adski
 
 <mark class="hltr-orange">Ulemper</mark>
 * Dårlig dataaktualitet for fælles data. Da data er spredt over flere enheder, kan der opstå udfordringer med at sikre at alle enheder har adgang til senest opdateret data.
-* Kræver IT-personale hos brugerne. Da man vælger at inkorporer flere IT systemer, så ka 
+* Kræver IT-personale hos brugerne. Da man vælger at inkorporer flere IT systemer, så kan der være behov for IT-personale til at vedligeholde enhederne. 
+* 
 #### <mark class="hltr-green">Distribueret</mark>
