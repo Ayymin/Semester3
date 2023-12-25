@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Central",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab0467dcbe3f0aec",
+  "active": "50bc75d930b46c1b",
   "lastOpenFiles": [
     "DIS/Driftsmodeller/Referencepunkter.md",
     "DIS/Driftsmodeller/Driftsmodeller.md",

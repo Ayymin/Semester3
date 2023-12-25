@@ -8,7 +8,7 @@ design og implementering af IT-systemer
 ## <mark class="hltr-green">De tre driftsmodeller
 </mark>
 #### <mark class="hltr-red">Central</mark>
-
+#Central 
 ![[Central.png|325]]
 **<mark class="hltr-pink">Redegørelse</mark>**
 Den central driftsmodel er et simpelt koncept som tyder på en central processorkraft/mainframe, med flere nodes eller klienter som opretter forbindelser til denne ene mainframe. 
@@ -52,9 +52,12 @@ Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adski
 #### <mark class="hltr-green">Distribueret</mark>
 
 <mark class="hltr-cyan">Redegørelse</mark>
-Grundstenen i den distribueret driftsmodel er den decentrale model, hvor maskinerne nu blot forbindes med telekommunikationsforbindelser, således at man online kan se og opdatere hinandens data, således at man opnår dataaktuelitet. Denne model har været i vækst i omtrent 20 år, hvor man før i tiden var nødt til at bygge en distribueret løsning næsten fra bunden, hvilket var dyrt.
+Grundstenen i den distribueret driftsmodel er den decentrale model, hvor maskinerne nu blot forbindes med telekommunikationsforbindelser, således at man online kan se og opdatere hinandens data, således at man opnår dataaktuelitet. Denne model har været i vækst i omtrent 20 år, hvor man før i tiden var nødt til at bygge en distribueret løsning næsten fra bunden, hvilket er dyrt.
 
 <mark class="hltr-cyan">Fordele</mark>
 * God dataaktuelitet, muligheden for direkte kommunikation mellem enheder kan bidrage til bedre og hurtigere opdatering af data på tværs af systemet. 
 * Billige maskiner, ved at distribuere processeringen til flere enheder kan man muligvis anvende billigere hardware. 
 * Mulighed for integration med andre systemer, heriblandt IoT.
+
+<mark class="hltr-cyan">Ulemper</mark>
+* Kræver WAN, da man ikke vil kunne udveklse data mellem enheder. 
