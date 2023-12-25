@@ -31,9 +31,11 @@
             "id": "ab0467dcbe3f0aec",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "chrome_MLyh9BeA7t 1.png"
+                "file": "DIS/Driftsmodeller/Driftsmodeller.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chrome_MLyh9BeA7t 1.png",
+                "file": "DIS/Driftsmodeller/Driftsmodeller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chrome_MLyh9BeA7t 1.png",
+                "file": "DIS/Driftsmodeller/Driftsmodeller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chrome_MLyh9BeA7t 1.png"
+                "file": "DIS/Driftsmodeller/Driftsmodeller.md"
               }
             }
           },
@@ -173,16 +175,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76177d01de0c5a9d",
+  "active": "ab0467dcbe3f0aec",
   "lastOpenFiles": [
-    "DIS/Driftsmodeller/Driftsmodeller.md",
-    "chrome_MLyh9BeA7t 1.png",
+    "DecentralModel.png",
     "chrome_MLyh9BeA7t.png",
+    "chrome_9w0xktCisQ.png",
+    "DriftmodellerB_PP.pdf",
+    "Untitled.md",
+    "DIS/Driftsmodeller/Driftsmodeller.md",
     "DIS/Driftsmodeller/Referencepunkter.md",
     "DIS/Driftsmodeller",
-    "Untitled.md",
-    "DriftmodellerB_PP.pdf",
-    "chrome_9w0xktCisQ.png",
     "Untitled/test note.md",
     "DIS",
     "Untitled",
