@@ -43,6 +43,7 @@ Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adski
 
 <mark class="hltr-orange">Ulemper</mark>
 * Dårlig dataaktualitet for fælles data. Da data er spredt over flere enheder, kan der opstå udfordringer med at sikre at alle enheder har adgang til senest opdateret data.
+* Fare for datanakari. Da man har flere enheder, der håndterer og lagrer data, kan der opstå uensartede eller inkonsekvens i, hvordan data administreres. 
 * Kræver IT-personale hos brugerne. Da man vælger at inkorporer flere IT systemer, så kan der være behov for IT-personale til at vedligeholde enhederne. 
-* 
+
 #### <mark class="hltr-green">Distribueret</mark>
