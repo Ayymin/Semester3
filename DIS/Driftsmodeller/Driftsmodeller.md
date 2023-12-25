@@ -51,4 +51,5 @@ Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adski
 * IoT (Internet of Things), enhederne kommunikere direkte med hinanden uden at være afhængige af en central enhed. 
 #### <mark class="hltr-green">Distribueret</mark>
 
-
+<mark class="hltr-cyan">Redegørelse</mark>
+Grundstenen i den distribueret driftsmodel er den decentrale model, hvor maskinerne nu blot forbindes med telekommunikationsforbindelser, således at man online kan se og opdatere hinandens data, således at man opnår dataaktuelitet. Denne model har været i vækst i omtrent 20 år og har stæl
