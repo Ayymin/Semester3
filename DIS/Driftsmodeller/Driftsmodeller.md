@@ -43,5 +43,6 @@ Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adski
 * WAN Trafik reduceres, da man bærer på flere enheder som bærer på byrden af databehandling og kommunikation. 
 
 <mark class="hltr-orange">Ulemper</mark>
-* 
+* Dårlig dataaktualitet for fælles data. Da data er spredt over flere enheder, kan der opstå udfordringer med at sikre at alle enheder har adgang til senest opdateret data.
+* Kræver IT-personale hos brugerne. Da man vælger at inkorporer flere IT systemer, så ka 
 #### <mark class="hltr-green">Distribueret</mark>
