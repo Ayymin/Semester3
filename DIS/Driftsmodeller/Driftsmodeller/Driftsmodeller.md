@@ -65,3 +65,6 @@ Grundstenen i den distribueret driftsmodel er den decentrale model, hvor maskine
 * Vanskelligere installation og udskiftning af program. Det kan være for mange kødboller i suppen. 
 
 
+## Opgaver
+
+![[OpgaverDriftmodeller.pdf]]
