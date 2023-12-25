@@ -40,5 +40,8 @@ Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adski
 <mark class="hltr-orange">Fordele</mark>
 * Billigere, da i modsætning til central, så kræver små datamater ikke så mange penge i modsætning til de meget dyrere og komplekse mainframes som kendetegnet i Central. 
 * Autonomi, enkelte brugere har mere kontrol over deres data, da det ikke er koncentreret på en central enhed. 
+* WAN Trafik reduceres, da man bærer på flere enheder som bærer på byrden af databehandling og kommunikation. 
 
+<mark class="hltr-orange">Ulemper</mark>
+* 
 #### <mark class="hltr-green">Distribueret</mark>
