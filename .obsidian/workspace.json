@@ -6,6 +6,7 @@
       {
         "id": "957b92fc0d2a0cb2",
         "type": "tabs",
+        "dimension": 50.20325203252033,
         "children": [
           {
             "id": "cb8f98753870223d",
@@ -33,6 +34,7 @@
       {
         "id": "788e18685d808761",
         "type": "tabs",
+        "dimension": 49.796747967479675,
         "children": [
           {
             "id": "69e2a420ffed6e2b",
@@ -185,6 +187,7 @@
   "lastOpenFiles": [
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Applikationslaget emne/Applikationslager.md",
+    "Applikationslaget_PP.pdf",
     "DIS/Driftsmodeller emne/Referencepunkter.md",
     "DIS/Applikationslaget emne",
     "DIS/Untitled.md",
