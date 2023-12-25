@@ -46,4 +46,7 @@ Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adski
 * Fare for datanakari. Da man har flere enheder, der håndterer og lagrer data, kan der opstå uensartede eller inkonsekvens i, hvordan data administreres. 
 * Kræver IT-personale hos brugerne. Da man vælger at inkorporer flere IT systemer, så kan der være behov for IT-personale til at vedligeholde enhederne. 
 
+<mark class="hltr-orange">I praksis</mark>
+* Logistik og Supply Chain Management, her anvendes den decentrale model til at spore forsendelser, transaktioner og forbedre sporingen af varer gennem forskellige led. 
+* IoT (Internet of Things), enhederne kommunikere direkte med hinanden uden at være afhængige af en central enhed. 
 #### <mark class="hltr-green">Distribueret</mark>
