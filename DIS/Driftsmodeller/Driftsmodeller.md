@@ -56,4 +56,5 @@ Grundstenen i den distribueret driftsmodel er den decentrale model, hvor maskine
 
 <mark class="hltr-cyan">Fordele</mark>
 * God dataaktuelitet, muligheden for direkte kommunikation mellem enheder kan bidrage til bedre og hurtigere opdatering af data på tværs af systemet. 
-* 
+* Billige maskiner, ved at distribuere processeringen til flere enheder kan man muligvis anvende billigere hardware. 
+* Mulighed for integration med andre systemer, heriblandt IoT.
