@@ -33,7 +33,7 @@ Den centrale driftsmodel kan ses i forskellige sektorer, heriblandt finanssektor
 
 
 #### <mark class="hltr-yellow">Decentral</mark>
-![[chrome_MLyh9BeA7t.png|346]]
+
 <mark class="hltr-orange">Redegørelse</mark>
 Den decentrale driftsmodel bygger videre på den centrale driftsmodel, men adskiller sig ved at distribuere processorkraft og data over flere enheder, i stedet for at have alt samlet på en central enhed. Det skal dog pointeres at den stadig har kendetegn på det centrale, dog med processorkraft jævnt fordelt. 
 
