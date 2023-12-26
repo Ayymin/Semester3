@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Applikationslaget emne/Applikationslager.md",
+                "file": "DIS/Datakkommunikation/Applikationslager.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Applikationslaget emne/Applikationslager.md",
+                "file": "DIS/Datakkommunikation/Applikationslager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Applikationslaget emne/Applikationslager.md",
+                "file": "DIS/Datakkommunikation/Applikationslager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Applikationslaget emne/Applikationslager.md"
+                "file": "DIS/Datakkommunikation/Applikationslager.md"
               }
             }
           },
@@ -183,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab0467dcbe3f0aec",
+  "active": "76177d01de0c5a9d",
   "lastOpenFiles": [
+    "DIS/Datakkommunikation",
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
-    "DIS/Applikationslaget emne/Applikationslager.md",
+    "DIS/Datakkommunikation/Applikationslager.md",
     "Applikationslaget_PP.pdf",
     "DIS/Driftsmodeller emne/Referencepunkter.md",
     "DIS/Applikationslaget emne",
