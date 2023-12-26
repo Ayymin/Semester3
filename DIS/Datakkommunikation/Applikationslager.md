@@ -7,4 +7,4 @@ At forstå applikationslagets opgaver og tjenester
 
 ## <mark class="hltr-green">Applikationsprotokoller</mark>
 
-#### Http
+#### <mark class="hltr-red">HTTP</mark>

@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d485f60fb3e334f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9537aa63b28e8ca",
+  "active": "0d485f60fb3e334f",
   "lastOpenFiles": [
-    "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Datakkommunikation/Applikationslager.md",
+    "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Datakkommunikation",
     "Applikationslaget_PP.pdf",
     "DIS/Driftsmodeller emne/Referencepunkter.md",
