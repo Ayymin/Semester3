@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab0467dcbe3f0aec",
+            "id": "406eff310fda4d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e9537aa63b28e8ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIS/Datakkommunikation/Applikationslager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
+                "file": "DIS/Datakkommunikation/Applikationslager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
+                "file": "DIS/Datakkommunikation/Applikationslager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md"
+                "file": "DIS/Datakkommunikation/Applikationslager.md"
               }
             }
           },
@@ -154,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab0467dcbe3f0aec",
+  "active": "e9537aa63b28e8ca",
   "lastOpenFiles": [
-    "DIS/Datakkommunikation/Applikationslager.md",
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
+    "DIS/Datakkommunikation/Applikationslager.md",
     "DIS/Datakkommunikation",
     "Applikationslaget_PP.pdf",
     "DIS/Driftsmodeller emne/Referencepunkter.md",
