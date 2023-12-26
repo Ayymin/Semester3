@@ -8,34 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb8f98753870223d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "ab0467dcbe3f0aec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "396f64018a3e8598",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "862fdb147baf2cd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "862fdb147baf2cd1",
+  "active": "ab0467dcbe3f0aec",
   "lastOpenFiles": [
     "DIS/Datakkommunikation/Applikationslager.md",
-    "DIS/Datakkommunikation",
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
+    "DIS/Datakkommunikation",
     "Applikationslaget_PP.pdf",
     "DIS/Driftsmodeller emne/Referencepunkter.md",
     "DIS/Applikationslaget emne",
