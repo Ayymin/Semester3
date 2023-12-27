@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md"
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md"
               }
             }
           },
@@ -177,14 +177,14 @@
   },
   "active": "e9537aa63b28e8ca",
   "lastOpenFiles": [
+    "DIS/Driftsmodeller emne/Referencepunkter.md",
+    "DIS/Datakkommunikation/Applikationslager.md",
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Driftsmodeller emne/Images/DriftmodellerB_PP.pdf",
     "DIS/Driftsmodeller emne/Images/DecentralModel.png",
-    "DIS/Datakkommunikation/Applikationslager.md",
     "chrome_4sFogxsoNP.png",
     "DIS/Datakkommunikation",
     "Applikationslaget_PP.pdf",
-    "DIS/Driftsmodeller emne/Referencepunkter.md",
     "DIS/Applikationslaget emne",
     "DIS/Untitled.md",
     "DIS/Application layer.md",
