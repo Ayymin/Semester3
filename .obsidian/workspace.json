@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md"
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "e9537aa63b28e8ca",
   "lastOpenFiles": [
+    "DIS/Driftsmodeller emne/Images/DriftmodellerB_PP.pdf",
+    "DIS/Driftsmodeller emne/Images/DecentralModel.png",
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Datakkommunikation/Applikationslager.md",
     "chrome_4sFogxsoNP.png",
@@ -187,9 +189,7 @@
     "DIS/Untitled.md",
     "DIS/Application layer.md",
     "OpgaverDriftmodeller.pdf",
-    "DIS/Driftsmodeller emne/Images/DriftmodellerB_PP.pdf",
     "DIS/Driftsmodeller emne/Images/Central.png",
-    "DIS/Driftsmodeller emne/Images/DecentralModel.png",
     "Untitled.md",
     "Images/Driftsmodeller/chrome_MLyh9BeA7t.png",
     "DIS/Driftsmodeller emne/Driftsmodeller",
