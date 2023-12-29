@@ -12,6 +12,8 @@ Hvert lag giver data til det lag, der er lige nedenunder.
 ![[chrome_4sFogxsoNP.png|424]]
 Applikationslaget danner grundlag for at brugeren har adgang til information på netværket via programmer. Dette lag er brugergrænsefladen, eller bruger-interfacet til programmet, og derigennem til netværket. 
 
+Applikationslaget udgør brugerens interface til netværket gennem programmer. Det tillader filoverførsel 
+
 
 #### <mark class="hltr-red">HTTP</mark>
 
