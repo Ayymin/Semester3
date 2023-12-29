@@ -11,9 +11,11 @@
             "id": "e9537aa63b28e8ca",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "chrome_4sFogxsoNP.png"
+                "file": "DIS/Datakkommunikation/Applikationslaget.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -79,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 236.5
   },
   "right": {
     "id": "0f9889cb7b340940",
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chrome_4sFogxsoNP.png",
+                "file": "DIS/Datakkommunikation/Applikationslaget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chrome_4sFogxsoNP.png",
+                "file": "DIS/Datakkommunikation/Applikationslaget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chrome_4sFogxsoNP.png"
+                "file": "DIS/Datakkommunikation/Applikationslaget.md"
               }
             }
           },
@@ -166,20 +168,21 @@
   },
   "active": "e9537aa63b28e8ca",
   "lastOpenFiles": [
-    "DIS/Datakkommunikation/Applikationslager.md",
-    "chrome_JCozbpI4FD.png",
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
-    "Pasted image 20231229141219.png",
     "DIS/Driftsmodeller emne/Referencepunkter.md",
+    "DIS/Datakkommunikation/Applikationslaget.md",
+    "DIS/Datakkommunikation/Images/SMTP visuel.png",
+    "OpgaverDriftmodeller.pdf",
+    "DIS/Datakkommunikation/Images",
+    "DIS/Datakkommunikation/Images/HTTP visuel.png",
+    "DIS/Datakkommunikation/Images/Applikationslaget_PP.pdf",
+    "DIS/Datakkommunikation/Images/Applikationslag ISO.png",
     "DIS/Driftsmodeller emne/Images/DriftmodellerB_PP.pdf",
     "DIS/Driftsmodeller emne/Images/DecentralModel.png",
-    "chrome_4sFogxsoNP.png",
     "DIS/Datakkommunikation",
-    "Applikationslaget_PP.pdf",
     "DIS/Applikationslaget emne",
     "DIS/Untitled.md",
     "DIS/Application layer.md",
-    "OpgaverDriftmodeller.pdf",
     "DIS/Driftsmodeller emne/Images/Central.png",
     "Untitled.md",
     "Images/Driftsmodeller/chrome_MLyh9BeA7t.png",
@@ -187,7 +190,6 @@
     "DIS/Driftsmodeller emne/Images",
     "DIS/Driftsmodeller emne",
     "Untitled/test note.md",
-    "DIS",
-    "Repository"
+    "DIS"
   ]
 }
