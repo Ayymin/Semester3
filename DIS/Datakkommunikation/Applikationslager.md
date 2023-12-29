@@ -22,6 +22,6 @@ Overfladsmæssigt fungerer det ret simpelt, en klient efterspørger  dokument, b
 
 <mark class="hltr-pink">Cookies
 </mark>
-HTTP server er stateless, det vil sige at der ikkke gemmes noget data på HTTP'en. Enhver interaktion der sendes fran en klient til en server, betragtes som en separat og uafhængig handling. 
+HTTP server er stateless, det vil sige at der ikkke gemmes noget data på HTTP'en. Enhver interaktion der sendes fran en klient til en server, betragtes som en separat og uafhængig handling. For at imødegå HTTPs stateless-natur, blev cookies udviklet som et modsvar. 
 
-For at imødegå HTTPs stateless-natur, blev cookies udviklet som et modsvar. 
+Cookies fungerer som et kunstigt lag 
