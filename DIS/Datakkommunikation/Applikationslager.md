@@ -33,4 +33,5 @@ Cookies består af 4 komponenter:
 * En cookie header line i HTTP response beskeden. 
 
 
-#### SMTP
+#### <mark class="hltr-yellow">SMTP</mark>
+![[chrome_JCozbpI4FD.png|325]]

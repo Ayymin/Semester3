@@ -11,11 +11,9 @@
             "id": "e9537aa63b28e8ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
-                "mode": "source",
-                "source": false
+                "file": "chrome_4sFogxsoNP.png"
               }
             }
           },
@@ -23,8 +21,12 @@
             "id": "0d485f60fb3e334f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
+                "file": "chrome_4sFogxsoNP.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md",
+                "file": "chrome_4sFogxsoNP.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslager.md"
+                "file": "chrome_4sFogxsoNP.png"
               }
             }
           },
@@ -164,9 +166,10 @@
   },
   "active": "e9537aa63b28e8ca",
   "lastOpenFiles": [
-    "Pasted image 20231229141219.png",
-    "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Datakkommunikation/Applikationslager.md",
+    "chrome_JCozbpI4FD.png",
+    "DIS/Driftsmodeller emne/Driftsmodeller.md",
+    "Pasted image 20231229141219.png",
     "DIS/Driftsmodeller emne/Referencepunkter.md",
     "DIS/Driftsmodeller emne/Images/DriftmodellerB_PP.pdf",
     "DIS/Driftsmodeller emne/Images/DecentralModel.png",
