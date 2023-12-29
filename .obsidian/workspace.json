@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "406eff310fda4d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9537aa63b28e8ca",
             "type": "leaf",
             "state": {
@@ -39,8 +27,25 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "f4dbfff8e124645d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "406eff310fda4d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,8 +183,8 @@
   "active": "e9537aa63b28e8ca",
   "lastOpenFiles": [
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
-    "DIS/Driftsmodeller emne/Referencepunkter.md",
     "DIS/Datakkommunikation/Applikationslager.md",
+    "DIS/Driftsmodeller emne/Referencepunkter.md",
     "DIS/Driftsmodeller emne/Images/DriftmodellerB_PP.pdf",
     "DIS/Driftsmodeller emne/Images/DecentralModel.png",
     "chrome_4sFogxsoNP.png",
