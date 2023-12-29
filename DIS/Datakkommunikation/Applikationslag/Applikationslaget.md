@@ -51,4 +51,7 @@ SMTP er designet specifikt til at videresende e-mails fra afsendende mailservere
 #### <mark class="hltr-green">DNS</mark>
 ![[Pasted image 20231229162219.png|350]]
 <mark class="hltr-cyan">Definition</mark>
-DNS er en protokol, der fungerer som internettets "telefonbog"
+DNS er en protokol, der fungerer som internettets "telefonbog", der oversætter menneskeligt læsbare domænenavne til numeriske IP-adresser, som computere bruger til at identificere hinanden på nettet.
+
+<mark class="hltr-cyan">Funktion</mark>
+Når en bruger indtaster et domænenavn som f.eks. "youtube.com" i deres browser, udfører enhenden en DNS-forespørgsel for at finde den tilsvarende Ip-adresse til det angivne domænenavn. DNS-severen oversætter derefte
