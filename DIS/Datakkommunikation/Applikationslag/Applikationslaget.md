@@ -57,5 +57,6 @@ DNS er en protokol, der fungerer som internettets "telefonbog", der oversætter 
 Når en bruger indtaster et domænenavn som f.eks. "youtube.com" i deres browser, udfører enheden en DNS-forespørgsel for at finde den tilsvarende Ip-adresse til det angivne domænenavn. DNS-serveren oversætter derefter domænenavnet til IP-adressen, så browseren kan etablere forbindelse til den specifikke server, der hoster den efterspurgte hjemmeside. Denne proces kaldes "Resolution"
 
 <mark class="hltr-cyan">DNS processen</mark>
-![[DNS forespørgsel.png|300]]
-* Local DNS-cache
+![[DNS forespørgsel.png|475]]
+* Local DNS-cache: Først kigges der i den enkelte enheds DNS-cache, for at se om den har gemt IP-adressen for den efterspurgte domæne. 
+* Root-DNS server: Næste skridt hvis den ikke findes lokalt. Dise servere indeholder oplysninger om de autoritative DNS-servere for topdomænerne, fx .com
