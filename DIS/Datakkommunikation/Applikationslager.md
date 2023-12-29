@@ -17,8 +17,8 @@ Applikationslaget udgør brugerens interface til netværket gennem programmer. D
 #### <mark class="hltr-red">HTTP</mark>
 ![[Pasted image 20231229141219.png|475]]
 <mark class="hltr-pink">Definition</mark>
-HyperText Transfer Protocol er hjertet af Web, det driver world wide web.
-Overfladsmæssigt fungerer det meget simpelt, en klient efterspørger et dokument og en server returner. Det skal understreges at HTTP er implementeret i to programmer. Et klient program og et server program. 
+HyperText Transfer Protocol er hjertet af Web, det driver world Wide web.
+Overfladsmæssigt fungerer det ret simpelt, en klient efterspørger  dokument, billeder, eller andre former for ressourcer og en server returner. Det skal understreges at HTTP er implementeret i to programmer. Et klient program og et server program. 
 
 <mark class="hltr-pink">Funktion
 </mark>
