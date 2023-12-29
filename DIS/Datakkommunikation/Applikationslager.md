@@ -15,10 +15,10 @@ Applikationslaget danner grundlag for at brugeren har adgang til information på
 Applikationslaget udgør brugerens interface til netværket gennem programmer. Det tillader filoverførsel via FTP, håndterer e-mails gennem SMTP og faciliterer anmodninger og overførsel af websider via HTTP. 
 
 #### <mark class="hltr-red">HTTP</mark>
-![[Pasted image 20231229141219.png|475]]
+![[Pasted image 20231229141219.png|400]]
 <mark class="hltr-pink">Definition</mark>
 HyperText Transfer Protocol er hjertet af Web, det driver world Wide web.
 Overfladsmæssigt fungerer det ret simpelt, en klient efterspørger  dokument, billeder, eller andre former for ressourcer og en server returner. Det skal understreges at HTTP er implementeret i to programmer. Et klient program og et server program. 
 
-<mark class="hltr-pink">Funktion
+<mark class="hltr-pink">Cookies
 </mark>
