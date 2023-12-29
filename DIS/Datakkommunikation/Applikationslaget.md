@@ -43,5 +43,7 @@ Simple Mail Transfer Protocol bruges til at sende og videresende mails mellem ma
 SMTP er designet specifikt til at videresende e-mails fra afsendende mailservere til modtagende mailservere. Når en bruger sender en e-mail gennem en mailklient, bruger klienten SMTP til at sende e-mailen til afsenderens mailserver. Denne mailserver videresender derefter e-mailen til modtagerens mailserver gennem internet. 
 
 <mark class="hltr-orange">SMTP komponenter</mark>
-
+* Mailklient: Brugt til at skrive og sende e-mails
+* Mailserver: Ansvarlig for at sende, modtage og videresende e-mails.
+* SMTTP-kommandoer-og-svar: Serie af instruktioner og svar, som mailservere bruger til at overføre emails.
 
