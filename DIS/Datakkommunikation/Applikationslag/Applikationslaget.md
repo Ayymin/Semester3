@@ -49,4 +49,6 @@ SMTP er designet specifikt til at videresende e-mails fra afsendende mailservere
 * Overskrifter og beskedtekst: E-mailens opbygning med metadata i overskrifter 
 
 #### <mark class="hltr-green">DNS</mark>
+![[Pasted image 20231229162219.png|350]]
+Definition
 
