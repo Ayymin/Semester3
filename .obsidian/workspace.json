@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslaget.md",
+                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslaget.md",
+                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslaget.md",
+                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslaget.md"
+                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md"
               }
             }
           },
@@ -166,28 +166,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9537aa63b28e8ca",
+  "active": "76177d01de0c5a9d",
   "lastOpenFiles": [
+    "DIS/Datakkommunikation/Applikationslag",
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Driftsmodeller emne/Referencepunkter.md",
-    "DIS/Datakkommunikation/Applikationslaget.md",
-    "DIS/Datakkommunikation/Images/SMTP visuel.png",
+    "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
+    "DIS/Images/SMTP visuel.png",
     "OpgaverDriftmodeller.pdf",
-    "DIS/Datakkommunikation/Images",
-    "DIS/Datakkommunikation/Images/HTTP visuel.png",
-    "DIS/Datakkommunikation/Images/Applikationslaget_PP.pdf",
-    "DIS/Datakkommunikation/Images/Applikationslag ISO.png",
-    "DIS/Driftsmodeller emne/Images/DriftmodellerB_PP.pdf",
-    "DIS/Driftsmodeller emne/Images/DecentralModel.png",
+    "DIS/Images",
+    "DIS/Images/HTTP visuel.png",
+    "DIS/Images/Applikationslaget_PP.pdf",
+    "DIS/Images/Applikationslag ISO.png",
+    "DIS/Datakkommunikation/Applikationslag/Images/DriftmodellerB_PP.pdf",
+    "DIS/Datakkommunikation/Applikationslag/Images/DecentralModel.png",
     "DIS/Datakkommunikation",
     "DIS/Applikationslaget emne",
     "DIS/Untitled.md",
     "DIS/Application layer.md",
-    "DIS/Driftsmodeller emne/Images/Central.png",
+    "DIS/Datakkommunikation/Applikationslag/Images/Central.png",
     "Untitled.md",
     "Images/Driftsmodeller/chrome_MLyh9BeA7t.png",
     "DIS/Driftsmodeller emne/Driftsmodeller",
-    "DIS/Driftsmodeller emne/Images",
+    "DIS/Datakkommunikation/Applikationslag/Images",
     "DIS/Driftsmodeller emne",
     "Untitled/test note.md",
     "DIS"

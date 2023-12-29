@@ -45,5 +45,6 @@ SMTP er designet specifikt til at videresende e-mails fra afsendende mailservere
 <mark class="hltr-orange">SMTP komponenter</mark>
 * Mailklient: Brugt til at skrive og sende e-mails
 * Mailserver: Ansvarlig for at sende, modtage og videresende e-mails.
-* SMTTP-kommandoer-og-svar: Serie af instruktioner og svar, som mailservere bruger til at overføre emails.
+* SMTTP-kommandoer-og-svar: Serie af instruktioner og svar, som mailservere bruger til at overføre e-mails.
+* Overskrifter og beskedtekst: E-mailens opbygning med metadata i overskrifter 
 
