@@ -3,7 +3,7 @@ At forstå applikationslagets opgaver og tjenester
 ## <mark class="hltr-orange">Læsemateriale</mark>
 ![[Applikationslaget_PP.pdf]]
 
-
+![[DNS_PP.pdf]]
 
 ## <mark class="hltr-green">Applikationsprotokoller</mark>
 Protokolstakken eksisterer for at mindske design kompleksitet for de fleste netværk, ved at udarbejde en stak af lag.
@@ -57,3 +57,4 @@ DNS er en protokol, der fungerer som internettets "telefonbog", der oversætter 
 Når en bruger indtaster et domænenavn som f.eks. "youtube.com" i deres browser, udfører enheden en DNS-forespørgsel for at finde den tilsvarende Ip-adresse til det angivne domænenavn. DNS-serveren oversætter derefter domænenavnet til IP-adressen, så browseren kan etablere forbindelse til den specifikke server, der hoster den efterspurgte hjemmeside. Denne proces kaldes "Resolution"
 
 <mark class="hltr-cyan">DNS processen</mark>
+![[chrome_XkxResAQaQ.png|425]]
