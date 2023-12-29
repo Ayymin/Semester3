@@ -50,5 +50,5 @@ SMTP er designet specifikt til at videresende e-mails fra afsendende mailservere
 
 #### <mark class="hltr-green">DNS</mark>
 ![[Pasted image 20231229162219.png|350]]
-Definition
-
+<mark class="hltr-cyan">Definition</mark>
+DNS er en protokol, der fungerer som internettets "telefonbog"
