@@ -35,3 +35,4 @@ Cookies består af 4 komponenter:
 
 #### <mark class="hltr-yellow">SMTP</mark>
 ![[SMTP visuel.png|325]]
+<mark class="hltr-orange">Definition</mark>
