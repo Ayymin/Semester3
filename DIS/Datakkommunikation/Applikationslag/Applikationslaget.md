@@ -49,7 +49,7 @@ SMTP er designet specifikt til at videresende e-mails fra afsendende mailservere
 * Overskrifter og beskedtekst: E-mailens opbygning med metadata i overskrifter 
 
 #### <mark class="hltr-green">DNS</mark>
-![[Pasted image 20231229162219.png|350]]
+![[DNS simplified.png|350]]
 <mark class="hltr-cyan">Definition</mark>
 DNS er en protokol, der fungerer som internettets "telefonbog", der oversætter menneskeligt læsbare domænenavne til numeriske IP-adresser, som computere bruger til at identificere hinanden på nettet.
 
@@ -57,4 +57,5 @@ DNS er en protokol, der fungerer som internettets "telefonbog", der oversætter 
 Når en bruger indtaster et domænenavn som f.eks. "youtube.com" i deres browser, udfører enheden en DNS-forespørgsel for at finde den tilsvarende Ip-adresse til det angivne domænenavn. DNS-serveren oversætter derefter domænenavnet til IP-adressen, så browseren kan etablere forbindelse til den specifikke server, der hoster den efterspurgte hjemmeside. Denne proces kaldes "Resolution"
 
 <mark class="hltr-cyan">DNS processen</mark>
-![[chrome_XkxResAQaQ.png|425]]
+![[DNS forespørgsel.png|300]]
+* Local DNS-cache
