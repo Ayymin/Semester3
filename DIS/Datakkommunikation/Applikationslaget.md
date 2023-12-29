@@ -37,3 +37,5 @@ Cookies består af 4 komponenter:
 ![[SMTP visuel.png|325]]
 <mark class="hltr-orange">Definition</mark>
 Simple Mail Transfer Protocol bruges til at sende og videresende mails mellem mailservere. Den håndtere transmissionen af e-mails fra afsendende til modtagende mailservere. 
+
+Funkjtion
