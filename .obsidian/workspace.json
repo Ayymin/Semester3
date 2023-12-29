@@ -6,7 +6,6 @@
       {
         "id": "957b92fc0d2a0cb2",
         "type": "tabs",
-        "dimension": 61.240310077519375,
         "children": [
           {
             "id": "e9537aa63b28e8ca",
@@ -26,25 +25,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "f4dbfff8e124645d",
-        "type": "tabs",
-        "dimension": 38.759689922480625,
-        "children": [
-          {
-            "id": "406eff310fda4d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
