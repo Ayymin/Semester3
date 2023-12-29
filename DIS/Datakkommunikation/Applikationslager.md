@@ -31,3 +31,6 @@ Cookies består af 4 komponenter:
 * En back-end database på Web sitet
 * En cookie header line i HTTP request beskeden
 * En cookie header line i HTTP response beskeden. 
+
+
+#### SMTP
