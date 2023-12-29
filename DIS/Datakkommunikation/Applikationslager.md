@@ -24,4 +24,10 @@ Overfladsmæssigt fungerer det ret simpelt, en klient efterspørger  dokument, b
 </mark>
 HTTP server er stateless, det vil sige at der ikkke gemmes noget data på HTTP'en. Enhver interaktion der sendes fran en klient til en server, betragtes som en separat og uafhængig handling. For at imødegå HTTPs stateless-natur, blev cookies udviklet som et modsvar. 
 
-Cookies fungerer som et kunstigt lag 
+Cookies fungerer som et kunstigt "sessions lag" oven på HTTP, der skaber en sammenhæng mellem forskellige anmodninger fra den samme bruger. Via dette opbevares der midlertidige data. 
+
+Cookies består af 4 komponenter:
+* En cookie fil der er på brugerens end system og håndteres af brugerens browser
+* En back-end database på Web sitet
+* En cookie header line i HTTP request beskeden
+* En cookie header line i HTTP response beskeden. 
