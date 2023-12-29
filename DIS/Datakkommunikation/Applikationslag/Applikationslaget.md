@@ -48,3 +48,6 @@ SMTP er designet specifikt til at videresende e-mails fra afsendende mailservere
 * SMTTP-kommandoer-og-svar: Serie af instruktioner og svar, som mailservere bruger til at overføre e-mails.
 * Overskrifter og beskedtekst: E-mailens opbygning med metadata i overskrifter 
 
+#### <mark class="hltr-cyan">DNS</mark>
+
+

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9537aa63b28e8ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0d485f60fb3e334f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
+                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,13 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76177d01de0c5a9d",
+  "active": "0d485f60fb3e334f",
   "lastOpenFiles": [
+    "DIS/Driftsmodeller emne/Driftsmodeller.md",
+    "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
     "DIS/Datakkommunikation/Transportlaget",
     "DIS/Datakkommunikation/Applikationslag",
-    "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Driftsmodeller emne/Referencepunkter.md",
-    "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
     "DIS/Images/SMTP visuel.png",
     "OpgaverDriftmodeller.pdf",
     "DIS/Images",
@@ -190,7 +178,6 @@
     "Images/Driftsmodeller/chrome_MLyh9BeA7t.png",
     "DIS/Driftsmodeller emne/Driftsmodeller",
     "DIS/Datakkommunikation/Applikationslag/Images",
-    "DIS/Driftsmodeller emne",
     "Untitled/test note.md"
   ]
 }
