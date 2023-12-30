@@ -7,7 +7,7 @@ At opnå kendskab til og forståelse for de tjenester transportlaget tilbyder
 En transportlagsprotokol sørger for logisk kommunikation mellem applikationsprocesser, der kører på forskellige hosts. Transportlageret lever ikke data direkte til processen men til en socket.
 
 #### <mark class="hltr-red">Socket</mark> 
-En 
+En socket er et endepunkt i netværkskommunikation, identificeret af en ip-adresse og et portnummer. Det tillader dataudveksling mellem enheder og er afgørende for at etablere forbindelser og dirigere information på et netværk. 
 
 
 Emner:
