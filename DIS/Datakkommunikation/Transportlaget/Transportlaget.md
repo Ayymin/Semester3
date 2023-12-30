@@ -20,4 +20,4 @@ Go Back N (GBN)
 Selective Repeat (SR)
 TCP
 UDP
-Socket
+
