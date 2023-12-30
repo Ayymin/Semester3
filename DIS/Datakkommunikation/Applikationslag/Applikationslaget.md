@@ -58,5 +58,10 @@ Når en bruger indtaster et domænenavn som f.eks. "youtube.com" i deres browser
 
 <mark class="hltr-cyan">DNS processen</mark>
 ![[DNS forespørgsel.png|475]]
-* Local DNS-cache: Først kigges der i den enkelte enheds DNS-cache, for at se om den har gemt IP-adressen for den efterspurgte domæne. 
-* Root-DNS server: Næste skridt hvis den ikke findes lokalt. Dise servere indeholder oplysninger om de autoritative DNS-servere for topdomænerne, fx .com
+* **Lokal DNS-cache:** Først kigges der i den enkelte enheds DNS-cache, for at se om den har gemt IP-adressen for den efterspurgte domæne.
+    
+* **Rod-DNS server:** Hvis den ikke findes lokalt, går forespørgslen til rod-DNS-serverne. Disse servere indeholder oplysninger om de autoritative DNS-servere for topdomænerne, fx .com eller .org.
+    
+3. **Top Level Domain:** Derefter peger rod-DNS-serverne forespørgslen i retning af TLD-DNS-serveren, der er ansvarlig for det specifikke domæneendelse, f.eks. ".com", ".org".
+    
+4. **Autoritative DNS-server:** Endelig dirigerer TLD-DNS-serveren forespørgslen til den autoritative DNS-server, der har information om det ønskede domæne, f.eks. "youtube.com".
