@@ -16,11 +16,10 @@ En socket er et endepunkt i netværkskommunikation, identificeret af en ip-adres
 <mark class="hltr-pink">Multiplexing og demultiplexing</mark>
 Efter at forbindelsen til modtageren oprettes samt socketsne, sendes der data til serveren. Hvis vi bygger videre på Minecraft eksemplet, så er det forskellige handlinger såsom blokplaceringer eller bevægelser som sendes. Multiplexing tillader klienten at kombinere disse forskellige datastrømme og sende dem samlet gennem den eksisterende forbindelse til serveren. 
 
-Når det så når serveren, bruges demultiplexing til at adskille og identificere de forskellige datatyper. Bevælgsesdata når til spil
+Når det så når serveren, bruges Demultiplexing til at adskille og identificere de forskellige datatyper. Bevægelsesdata når til spillogikken, blokplaceringer til kortet og chatbeskeder til chatfunktionen. 
 
 
 Emner:
-Multiplexing/Demultiplexing
 Go Back N (GBN)
 Selective Repeat (SR)
 TCP
