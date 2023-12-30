@@ -14,7 +14,10 @@ En socket er et endepunkt i netværkskommunikation, identificeret af en ip-adres
 * På Minecraft-serveren, der kører på IP'en "192.0.2.100" og portnummeret "25565", har serveren sin egen socket. Denne socket er tilknyttet serverens IP og portnummer. 
 
 <mark class="hltr-pink">Multiplexing og demultiplexing</mark>
-Efter at forb
+Efter at forbindelsen til modtageren oprettes samt socketsne, sendes der data til serveren. Hvis vi bygger videre på Minecraft eksemplet, så er det forskellige handlinger såsom blokplaceringer eller bevægelser som sendes. Multiplexing tillader klienten at kombinere disse forskellige datastrømme og sende dem samlet gennem den eksisterende forbindelse til serveren. 
+
+Når det så når serveren, bruges demultiplexing til at adskille og identificere de forskellige datatyper. Bevælgsesdata når til spil
+
 
 Emner:
 Multiplexing/Demultiplexing
