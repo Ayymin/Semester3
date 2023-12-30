@@ -65,3 +65,6 @@ Når en bruger indtaster et domænenavn som f.eks. "youtube.com" i deres browser
 3. **Top Level Domain:** Derefter peger rod-DNS-serverne forespørgslen i retning af TLD-DNS-serveren, der er ansvarlig for det specifikke domæneendelse, f.eks. ".com", ".org".
     
 4. **Autoritative DNS-server:** Endelig dirigerer TLD-DNS-serveren forespørgslen til den autoritative DNS-server, der har information om det ønskede domæne, f.eks. "youtube.com".
+
+
+#### <mark class="hltr-purple">MQTT</mark>
