@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "25d4414da43b69b0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3e843d2805d1967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
