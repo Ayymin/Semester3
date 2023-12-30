@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
+                "file": "DIS/Datakkommunikation/Transportlaget/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
+                "file": "DIS/Datakkommunikation/Transportlaget/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
+                "file": "DIS/Datakkommunikation/Transportlaget/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md"
+                "file": "DIS/Datakkommunikation/Transportlaget/Untitled.md"
               }
             }
           },
@@ -156,12 +156,13 @@
   },
   "active": "d150c6c52139b9b1",
   "lastOpenFiles": [
+    "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
+    "DIS/Driftsmodeller emne/Driftsmodeller.md",
+    "DIS/Datakkommunikation/Transportlaget/Untitled.md",
     "DIS/Datakkommunikation/Applikationslag/Images/DNS forespørgsel.png",
     "OpgaverDriftmodeller.pdf",
     "DIS/Datakkommunikation/Applikationslag/Images/DNS simplified.png",
-    "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
     "DIS/Datakkommunikation/Applikationslag/Images/DNS_PP.pdf",
-    "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Datakkommunikation/Transportlaget",
     "DIS/Datakkommunikation/Applikationslag",
     "DIS/Driftsmodeller emne/Referencepunkter.md",
