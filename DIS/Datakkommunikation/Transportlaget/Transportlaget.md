@@ -10,7 +10,8 @@ En transportlagsprotokol sørger for logisk kommunikation mellem applikationspro
 En socket er et endepunkt i netværkskommunikation, identificeret af en ip-adresse og et portnummer. Det tillader dataudveksling mellem enheder og er afgørende for at etablere forbindelser og dirigere information på et netværk. 
 <mark class="hltr-red">Eksempel</mark>
 * Lad os sige at du vil oprette forbindelse til en Minecraft-server, der kører på IP-adressen "192.0.2.100" og portnummeret "25565"
-* Når man forsøger at 
+* Når man forsøger at oprette forbindelse, oprettes der en socket på sin computer. Den er forbundet til IP'en på computeren og en vilkårlig port, fx 12345.
+* På Minecraft-serveren, der kører på IP'en "192.0.2.100" og portnummeret "25565", har serveren sin egen socket. Denne socket er tilknyttet serverens IP og portnummer. 
 
 
 Emner:
