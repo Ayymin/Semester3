@@ -29,6 +29,7 @@ I det overstående eksempel, afsendes der datapakker: 0,1,2,3. Hvor vi så kan s
 
 
 
+
 Emner:
 
 Selective Repeat (SR)
