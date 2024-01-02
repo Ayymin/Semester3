@@ -18,11 +18,12 @@ Efter at forbindelsen til modtageren oprettes samt socketsne, sendes der data ti
 
 Når det så når serveren, bruges Demultiplexing til at adskille og identificere de forskellige datatyper. Bevægelsesdata når til spillogikken, blokplaceringer til kortet og chatbeskeder til chatfunktionen. 
 
-#### Go Back N
+#### <mark class="hltr-yellow">Go Back N</mark>
 Go Back N er en fejlkontrols protokol, der regner med at afsenderen sender flere datagrammer, mens den venter på bekræftelse fra modtageren for de tidligere afsendte rammer. Dette kaldes for pipelining.
 
 ![[Pasted image 20240102172509.png|300]]
-For eksempel i det overstående, bærer på vi
+<mark class="hltr-orange">Sliding Window</mark>
+Er en teknik der bruges til administrere dataoverførsel mellem sender og modtager. Det tillader afsenderen at sende f
 
 Emner:
 Go Back N (GBN)

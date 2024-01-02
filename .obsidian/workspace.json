@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
+                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,16 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "510a9c7b7d319b60",
+  "active": "d150c6c52139b9b1",
   "lastOpenFiles": [
+    "DIS/Driftsmodeller emne/Driftsmodeller.md",
+    "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
     "DIS/Datakkommunikation/Transportlaget/Images/Pasted image 20240102172509.png",
     "DIS/Datakkommunikation/Transportlaget/Images/Transportlaget_PP.pdf",
     "OpgaverDriftmodeller.pdf",
-    "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
     "DIS/Datakkommunikation/Transportlaget/Images",
     "DIS/Datakkommunikation/Transportlaget/Untitled.md",
     "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
-    "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Datakkommunikation/Applikationslag/Images/DNS forespørgsel.png",
     "DIS/Datakkommunikation/Applikationslag/Images/DNS simplified.png",
     "DIS/Datakkommunikation/Applikationslag/Images/DNS_PP.pdf",
