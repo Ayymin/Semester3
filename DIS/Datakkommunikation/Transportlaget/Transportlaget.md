@@ -30,9 +30,12 @@ I det overstående eksempel, afsendes der datapakker: 0,1,2,3. Hvor vi så kan s
 
 <mark class="hltr-orange">Selective Repeat</mark>
 I SR ville kun den specifikke tabte pakke blive genoverført, kontra GBN, hvor der vil gensendes den tabte pakke samt dem så der vil blive modtaget korrekt. 
-Emner:
 
-Selective Repeat (SR)
+Både SR og GBN eer designet til at sikre at data sendes og modtages pålideligt. Det sikrer også dataintegritet, så vi kan sikre os at dataet forbliver uforanderlige eller uforvanskede under overførsling. 
+
+
 TCP
 UDP
 
+
+#### <mark class="hltr-green">TCP og UDP</mark>
