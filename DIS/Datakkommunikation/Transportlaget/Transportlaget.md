@@ -44,4 +44,8 @@ Transmission Control Protocol (TCP) er afgørende for at sikre, at al data modta
 Efter denne håndtryksproces kan data leveres. TCP er også i stand til at genoverføre tabte datapakker for a sikre pålidelig overførsel. Dette kaldes for Retransmission.
 
 <mark class="hltr-cyan">Retransmission</mark>
-Når afsender 
+Når afsenderen sender en datarammer, registrerer den en time-out periode. Hvis den ikke modtager en acknowledgement fra modtageren inden for denne tidsgrænse, antager den, at rammen er gået tabt og sender pakken igen. 
+
+
+<mark class="hltr-red">UDP</mark>
+User Datagram Protocol (UDP) bruges også til at sende og modtage data. Forskellen er at UDP er connection-less og garanterer ikke datalevering. 
