@@ -56,4 +56,4 @@ User Datagram Protocol (UDP) bruges også til at sende og modtage data. Forskell
 På trods af dette, kan UDPs tilgang beskrives som "Best effort". Protokollen gøre sit bedste for at levere dataene uden at garantere levering, ordentlig rækkefølge eller fejlfrihed. Det vil sige at der er tjeks, som vi kender fra TCP som for eksempel 3 Way Handshake eller acknowledgement til når datarammer bliver modtaget. 
 
 <mark class="hltr-red">Anvendelser</mark>
-Realtime applikationer fx Video og lydstreaming, online gaming. Generelt situationer, hvor øjeblikkelig respons er vi
+Realtime applikationer fx Video og lydstreaming, online gaming. Generelt situationer, hvor øjeblikkelig respons er vigtigere end fuldstændig dataintegritet. 
