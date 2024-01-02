@@ -21,8 +21,8 @@ Når det så når serveren, bruges Demultiplexing til at adskille og identificer
 #### Go Back N
 Go Back N er en fejlkontrols protokol, der regner med at afsenderen sender flere datagrammer, mens den venter på bekræftelse fra modtageren for de tidligere afsendte rammer. Dette kaldes for pipelining.
 
-
-
+![[Pasted image 20240102172509.png|300]]
+For eksempel i det overstående, bærer på vi
 
 Emner:
 Go Back N (GBN)
