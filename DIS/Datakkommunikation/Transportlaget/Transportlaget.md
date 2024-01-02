@@ -18,6 +18,7 @@ Efter at forbindelsen til modtageren oprettes samt socketsne, sendes der data ti
 
 Når det så når serveren, bruges Demultiplexing til at adskille og identificere de forskellige datatyper. Bevægelsesdata når til spillogikken, blokplaceringer til kortet og chatbeskeder til chatfunktionen. 
 
+#### Go Back N
 
 Emner:
 Go Back N (GBN)
