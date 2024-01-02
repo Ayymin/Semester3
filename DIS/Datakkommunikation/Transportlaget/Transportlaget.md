@@ -29,7 +29,7 @@ I det overstående eksempel, afsendes der datapakker: 0,1,2,3. Hvor vi så kan s
 
 
 <mark class="hltr-orange">Selective Repeat</mark>
-I
+I SR ville kun den specifikke tabte pakke blive genoverført, kontra GBN, hvor der vil gensendes den tabte pakke samt dem så der vil blive modtaget korrekt. 
 Emner:
 
 Selective Repeat (SR)
