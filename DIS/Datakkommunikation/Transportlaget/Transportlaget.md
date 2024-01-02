@@ -46,8 +46,11 @@ Efter denne håndtryksproces kan data leveres. TCP er også i stand til at genov
 <mark class="hltr-cyan">Retransmission</mark>
 Når afsenderen sender en datarammer, registrerer den en time-out periode. Hvis den ikke modtager en acknowledgement fra modtageren inden for denne tidsgrænse, antager den, at rammen er gået tabt og sender pakken igen. 
 
+<mark class="hltr-cyan">Anvendelser</mark>
+TCP er gældende når pålidelig datatransmission er afgørende. 
+Det er områder som filoverførsel, webbrowsing, e-mails og applikationer der kræver dataintegritet. 
 
 <mark class="hltr-red">UDP</mark>
 User Datagram Protocol (UDP) bruges også til at sende og modtage data. Forskellen er at UDP er connection-less og garanterer ikke datalevering. Det kan beskrives som "Fire and forget", hvor afsendere sender data til modtageren uden at forvente acknowledgement fra modtageren. Opgaven betragtes som fuldfør efter at dataet er blevet skudt. 
 
-På trods af dette, kan UDPs tilgang beskrives som "Best effort". Protokollen gøre sit bedste for at levere dataene uden at garantere levering, ordentlig rækkefølge eller fejlfrihed. Det vil sige at der er tjeks, som vi kender fra TCP som for eksempel 3
+På trods af dette, kan UDPs tilgang beskrives som "Best effort". Protokollen gøre sit bedste for at levere dataene uden at garantere levering, ordentlig rækkefølge eller fejlfrihed. Det vil sige at der er tjeks, som vi kender fra TCP som for eksempel 3 Way Handshake eller acknowledgements til når datarammer bliver modtaget. 
