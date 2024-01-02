@@ -28,8 +28,8 @@ Sliding window er en teknik, der administrerer dataoverførsel mellem en sender 
 I det overstående eksempel, afsendes der datapakker: 0,1,2,3. Hvor vi så kan se at der kommer et acknowledgement på 0, 1. Derefter sendes 4 og 5, men der kommer ingen acknowledgement på 2. Derfor gensendes 2, samt de 4 rammer der kom efter. Det giver os en window size på 4. 
 
 
-
-
+<mark class="hltr-orange">Selective Repeat</mark>
+I
 Emner:
 
 Selective Repeat (SR)
