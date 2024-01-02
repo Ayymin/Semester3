@@ -40,4 +40,5 @@ Både SR og GBN eer designet til at sikre at data sendes og modtages pålideligt
 Transmission Control Protocol (TCP) er afgørende for at sikre, at al data modtages korrekt og i den rigtige rækkefølge. Uden TCP vil vi miste dataingretitet. Når to maskiner kommunikerer, etablerer TCP en forbindelse ved at udføre et "3 way handshake".
 1. Den afsendende computer sender en SYN-besked til modtageren.
 2. Modtageren svarer på med en SYN ACK.
-3. AFsenderen sender en
+3. AFsenderen sender en ACK til modtageren.
+Efter disse mange tjeks, kan data leveres. Hvis d
