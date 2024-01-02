@@ -49,3 +49,5 @@ Når afsenderen sender en datarammer, registrerer den en time-out periode. Hvis 
 
 <mark class="hltr-red">UDP</mark>
 User Datagram Protocol (UDP) bruges også til at sende og modtage data. Forskellen er at UDP er connection-less og garanterer ikke datalevering. Det kan beskrives som "Fire and forget", hvor afsendere sender data til modtageren uden at forvente acknowledgement fra modtageren. Opgaven betragtes som fuldfør efter at dataet er blevet skudt. 
+
+På trods af dette, kan UDPs tilgang beskrives som "Best effort". Protokollen gøre sit bedste for at levere dataene uden at garantere levering, ordentlig rækkefølge eller fejlfrihed. Det vil sige at der er tjeks, som vi kender fra TCP som for eksempel 3
