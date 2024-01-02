@@ -25,7 +25,7 @@ Go Back N er en fejlkontrols protokol, der regner med at afsenderen sender flere
 <mark class="hltr-orange">Sliding Window</mark>
 Sliding window er en teknik, der administrerer dataoverførsel mellem en sender og en modtager. Det tillader afsenderen at sende flere datapakker, før der afventes en bekræftelse (acknowledgement) fra modtageren. Dette koncept muliggør en mere effektiv udnyttelse af netværksbåndbredde og forbedrer overførselshastigheden.
 
-I det overstående eksempel, afsendes der datapakker fra 1.3
+I det overstående eksempel, afsendes der datapakker: 0,1,2,3. Hvor vi så kan se at der kommer et acknowledgement på 0, 1. Derefter sendes 4 og 5, men der kommer ingen acknowledgement på 2. Derfor gensendes 2, samt de 4 rammer der kom efter. Det giver os en window size på 4. 
 
 
 
