@@ -20,6 +20,7 @@ Når det så når serveren, bruges Demultiplexing til at adskille og identificer
 
 #### Go Back N
 
+
 Emner:
 Go Back N (GBN)
 Selective Repeat (SR)
