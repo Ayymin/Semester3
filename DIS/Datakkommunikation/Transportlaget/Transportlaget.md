@@ -34,8 +34,7 @@ I SR ville kun den specifikke tabte pakke blive genoverført, kontra GBN, hvor d
 Både SR og GBN eer designet til at sikre at data sendes og modtages pålideligt. Det sikrer også dataintegritet, så vi kan sikre os at dataet forbliver uforanderlige eller uforvanskede under overførsling. 
 
 
-TCP
-UDP
-
-
 #### <mark class="hltr-green">TCP og UDP</mark>
+![[TCP and UDP.png|325]]
+<mark class="hltr-cyan">TCP</mark>
+TCP står for Transmission Control Protocol
