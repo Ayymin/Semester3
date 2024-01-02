@@ -30,7 +30,7 @@ I det overstående eksempel, afsendes der datapakker: 0,1,2,3. Hvor vi så kan s
 
 
 Emner:
-Go Back N (GBN)
+
 Selective Repeat (SR)
 TCP
 UDP
