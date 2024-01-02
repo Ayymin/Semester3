@@ -19,6 +19,7 @@ Efter at forbindelsen til modtageren oprettes samt socketsne, sendes der data ti
 Når det så når serveren, bruges Demultiplexing til at adskille og identificere de forskellige datatyper. Bevægelsesdata når til spillogikken, blokplaceringer til kortet og chatbeskeder til chatfunktionen. 
 
 #### Go Back N
+Go Back N er en fejlkontrols protokol, der regner med at afsenderen sender flere datagrammer, mens den venter på bekræftelse fra modtageren for de tidligere afsendte rammer. Dette kaldes for pipelining.
 
 
 Emner:
