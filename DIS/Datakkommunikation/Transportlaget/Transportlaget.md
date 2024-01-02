@@ -23,7 +23,7 @@ Go Back N er en fejlkontrols protokol, der regner med at afsenderen sender flere
 
 ![[Pasted image 20240102172509.png|300]]
 <mark class="hltr-orange">Sliding Window</mark>
-Er en teknik der bruges til administrere dataoverførsel mellem sender og modtager. Det tillader afsenderen at sende f
+Sliding window er en teknik, der administrerer dataoverførsel mellem en sender og en modtager. Det tillader afsenderen at sende flere datapakker, før der afventes en bekræftelse (acknowledgement) fra modtageren. Dette koncept muliggør en mere effektiv udnyttelse af netværksbåndbredde og forbedrer overførselshastigheden
 
 Emner:
 Go Back N (GBN)
