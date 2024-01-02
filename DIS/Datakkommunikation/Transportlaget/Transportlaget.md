@@ -53,4 +53,7 @@ Det er områder som filoverførsel, webbrowsing, e-mails og applikationer der kr
 <mark class="hltr-red">UDP</mark>
 User Datagram Protocol (UDP) bruges også til at sende og modtage data. Forskellen er at UDP er connection-less og garanterer ikke datalevering. Det kan beskrives som "Fire and forget", hvor afsendere sender data til modtageren uden at forvente acknowledgement fra modtageren. Opgaven betragtes som fuldfør efter at dataet er blevet skudt. 
 
-På trods af dette, kan UDPs tilgang beskrives som "Best effort". Protokollen gøre sit bedste for at levere dataene uden at garantere levering, ordentlig rækkefølge eller fejlfrihed. Det vil sige at der er tjeks, som vi kender fra TCP som for eksempel 3 Way Handshake eller acknowledgements til når datarammer bliver modtaget. 
+På trods af dette, kan UDPs tilgang beskrives som "Best effort". Protokollen gøre sit bedste for at levere dataene uden at garantere levering, ordentlig rækkefølge eller fejlfrihed. Det vil sige at der er tjeks, som vi kender fra TCP som for eksempel 3 Way Handshake eller acknowledgement til når datarammer bliver modtaget. 
+
+<mark class="hltr-red">Anvendelser</mark>
+Realtime applikationer fx Video og lydstreaming, online gaming. Generelt situationer, hvor øjeblikkelig respons er vi
