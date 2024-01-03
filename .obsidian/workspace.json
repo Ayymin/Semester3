@@ -11,11 +11,9 @@
             "id": "d150c6c52139b9b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
-                "mode": "source",
-                "source": false
+                "file": "OpgaverDriftmodeller.pdf"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
+                "file": "OpgaverDriftmodeller.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
+                "file": "OpgaverDriftmodeller.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Datakkommunikation/Transportlaget/Transportlaget.md"
+                "file": "OpgaverDriftmodeller.pdf"
               }
             }
           },
@@ -166,14 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d150c6c52139b9b1",
+  "active": "76177d01de0c5a9d",
   "lastOpenFiles": [
-    "DIS/Datakkommunikation/Transportlaget/Images/TCP and UDP.png",
+    "DIS/Datakkommunikation/Untitled.md",
+    "DIS/Datakkommunikation/Netværkslaget",
+    "OpgaverDriftmodeller.pdf",
     "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
+    "DIS/Datakkommunikation/Transportlaget/Images/TCP and UDP.png",
     "DIS/Datakkommunikation/Transportlaget/Images/GoBackN.png",
     "DIS/Datakkommunikation/Transportlaget/Images/Transportlaget_PP.pdf",
     "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
-    "OpgaverDriftmodeller.pdf",
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Datakkommunikation/Transportlaget/Images",
     "DIS/Datakkommunikation/Transportlaget/Untitled.md",
@@ -190,7 +190,6 @@
     "DIS/Images/Applikationslag ISO.png",
     "DIS/Datakkommunikation/Applikationslag/Images/DriftmodellerB_PP.pdf",
     "DIS/Datakkommunikation/Applikationslag/Images/DecentralModel.png",
-    "DIS/Datakkommunikation",
     "DIS/Untitled.md",
     "DIS/Application layer.md",
     "DIS/Datakkommunikation/Applikationslag/Images/Central.png",
