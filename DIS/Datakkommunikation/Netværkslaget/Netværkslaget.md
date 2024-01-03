@@ -3,7 +3,9 @@ At opnå kendskab til og forståelse for de tjenester Netværkslaget tilbyder
 
 ## <mark class="hltr-orange">Læsemateriale</mark>
 ![[Netværkslaget_PP.pdf]]
-#### Grundlæggende Koncepter
+
+
+#### <mark class="hltr-red">Grundlæggende Koncepter</mark>
 
 
 
