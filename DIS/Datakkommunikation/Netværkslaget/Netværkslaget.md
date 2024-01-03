@@ -6,6 +6,8 @@ At opnå kendskab til og forståelse for de tjenester Netværkslaget tilbyder
 
 Netværkslaget er det tredje lag i OSI-modellen. Det er den afgørende del af netværkskommunikation. Dette lag er ansvarlige overfor flere vigtige funktioner, som er fokuseret på dataoverførsel over et netværk. 
 
+For at kunne forstå hvad netværkslaget mission er, så er det vigtigt at forstå hvad der definere et netværk. Grundlæggende så er det den bestemte forbindelse der er mellem to- eller flere maskiner. 
+
 #### <mark class="hltr-red">Grundlæggende Koncepter</mark>
 
 <mark class="hltr-red">Datagram</mark>
