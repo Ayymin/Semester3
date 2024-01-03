@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Datakkommunikation/Netværkslaget/Netværkslaget.md",
+                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Driftsmodeller emne/Driftsmodeller.md",
+                "file": "DIS/Datakkommunikation/Netværkslaget/Netværkslaget.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,12 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76177d01de0c5a9d",
+  "active": "510a9c7b7d319b60",
   "lastOpenFiles": [
-    "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
-    "DIS/Datakkommunikation/Netværkslaget/Netværkslaget.md",
-    "DIS/Datakkommunikation/Netværkslaget/Images",
     "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
+    "DIS/Datakkommunikation/Netværkslaget/Netværkslaget.md",
+    "DIS/Driftsmodeller emne/Driftsmodeller.md",
+    "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
+    "DIS/Datakkommunikation/Netværkslaget/Images",
     "DIS/Datakkommunikation/Applikationslag/Images/Central.png",
     "OpgaverDriftmodeller.pdf",
     "DIS/Datakkommunikation/Untitled.md",
@@ -179,7 +181,6 @@
     "DIS/Datakkommunikation/Transportlaget/Images/TCP and UDP.png",
     "DIS/Datakkommunikation/Transportlaget/Images/GoBackN.png",
     "DIS/Datakkommunikation/Transportlaget/Images/Transportlaget_PP.pdf",
-    "DIS/Driftsmodeller emne/Driftsmodeller.md",
     "DIS/Datakkommunikation/Transportlaget/Images",
     "DIS/Datakkommunikation/Transportlaget/Untitled.md",
     "DIS/Datakkommunikation/Applikationslag/Images/DNS forespørgsel.png",
