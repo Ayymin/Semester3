@@ -43,6 +43,7 @@ Transmission Control Protocol (TCP) er afgørende for at sikre, at al data modta
 3. Afsenderen sender en ACK til modtageren.
 Efter denne håndtryksproces kan data leveres. TCP er også i stand til at genoverføre tabte datapakker for a sikre pålidelig overførsel. Dette kaldes for Retransmission.
 
+
 <mark class="hltr-cyan">Retransmission</mark>
 Når afsenderen sender en datarammer, registrerer den en time-out periode. Hvis den ikke modtager en acknowledgement fra modtageren inden for denne tidsgrænse, antager den, at rammen er gået tabt og sender pakken igen. 
 
