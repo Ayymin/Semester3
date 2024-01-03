@@ -47,6 +47,9 @@ Efter denne håndtryksproces kan data leveres. TCP er også i stand til at genov
 <mark class="hltr-cyan">Retransmission</mark>
 Når afsenderen sender en datarammer, registrerer den en time-out periode. Hvis den ikke modtager en acknowledgement fra modtageren inden for denne tidsgrænse, antager den, at rammen er gået tabt og sender pakken igen. 
 
+<mark class="hltr-cyan">Flow Control</mark>
+Flowkontrol håndterer mængden af data, der sendes til modtageren, uden at modtage nogen bekræftelse. Det sikrer, at modtageren ikke vil blive overvældet af data. 
+
 <mark class="hltr-cyan">Anvendelser</mark>
 TCP er gældende når pålidelig datatransmission er afgørende. 
 Det er områder som filoverførsel, webbrowsing, e-mails og applikationer der kræver dataintegritet. 
