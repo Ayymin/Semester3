@@ -8,6 +8,7 @@ Netværkslaget er det tredje lag i OSI-modellen. Det er den afgørende del af ne
 
 #### <mark class="hltr-red">Grundlæggende Koncepter</mark>
 
+<mark class="hltr-red">Datagram</mark>
 
 
 
