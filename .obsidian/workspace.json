@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
+                "file": "DIS/Datakkommunikation/Netværkslaget/Netværkslaget.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
+                "file": "DIS/Datakkommunikation/Netværkslaget/Netværkslaget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
+                "file": "DIS/Datakkommunikation/Netværkslaget/Netværkslaget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md"
+                "file": "DIS/Datakkommunikation/Netværkslaget/Netværkslaget.md"
               }
             }
           },
@@ -166,13 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "510a9c7b7d319b60",
+  "active": "f0ff7a1414bb691c",
   "lastOpenFiles": [
-    "DIS/Datakkommunikation/Netværkslaget/Netværkslaget.md",
+    "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
     "DIS/Datakkommunikation/Applikationslag/Applikationslaget.md",
+    "DIS/Datakkommunikation/Netværkslaget/Netværkslaget.md",
     "DIS/Datakkommunikation/Netværkslaget/Images/Netværkslaget_PP.pdf",
     "DIS/Driftsmodeller emne/Driftsmodeller.md",
-    "DIS/Datakkommunikation/Transportlaget/Transportlaget.md",
     "DIS/Datakkommunikation/Netværkslaget/Images",
     "DIS/Datakkommunikation/Applikationslag/Images/Central.png",
     "OpgaverDriftmodeller.pdf",
