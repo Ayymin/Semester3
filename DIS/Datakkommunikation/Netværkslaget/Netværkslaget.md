@@ -8,7 +8,9 @@ Netværkslaget er det tredje lag i OSI-modellen. Det er den afgørende del af ne
 
 For at kunne forstå hvad netværkslaget mission er, så er det vigtigt at forstå hvad der definere et netværk. Grundlæggende så er det den bestemte forbindelse der er mellem to- eller flere maskiner. Dette kan være alt fra computere i et hjemmenetværk til enheder spredt over hele verden. 
 Dette udføres ved anvendelse af både Hardware og software.
-* Hardware bruges til at forbinde en mængde af fysiske netværk
+* Hardware bruges til at forbinde en mængde af fysiske netværk. 
+	- Router, styrer data mellem forskellige netværk
+	- Tildeler IP-ad
 * Software på det tilknyttende hardware enheder giver universel service. 
 
 #### <mark class="hltr-red">Grundlæggende Koncepter</mark>
