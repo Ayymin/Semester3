@@ -10,9 +10,10 @@ For at kunne forstå hvad netværkslaget mission er, så er det vigtigt at forst
 Dette udføres ved anvendelse af både Hardware og software.
 * Hardware bruges til at forbinde en mængde af fysiske netværk. 
 	- Router, styrer data mellem forskellige netværk
-	- Tildeler IP-ad
+		- Tildeler IP-adresser
+		- Knudepunkt mellem hjemmenetværk og internettet
 * Software på det tilknyttende hardware enheder giver universel service. 
-
+	* 
 #### <mark class="hltr-red">Grundlæggende Koncepter</mark>
 
 <mark class="hltr-red">Datagram</mark>
