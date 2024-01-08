@@ -23,7 +23,7 @@ for pakken og putter derefter pakken ud i netværket. Destinationen er typisk en
 
 <mark class="hltr-red">Adressering</mark>
 En af netværkslagerets primære opgaver. 
-
+Handler om at sende data til en specifik adresse, enhver enhed har en unik IP-adresse. Identificeres ligesom en bopæls adresse. 
 
 
 
