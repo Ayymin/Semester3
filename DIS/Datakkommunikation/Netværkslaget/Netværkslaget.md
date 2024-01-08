@@ -21,6 +21,8 @@ Internettet er et datagram netværk
 Hver gang et end system vil sende en pakke, stempler den pakken med destinationsadressen
 for pakken og putter derefter pakken ud i netværket. Destinationen er typisk en IP-adresse, som identificerer modtageren af pakken.
 
+<mark class="hltr-red">Adressering</mark>
+
 
 
 
