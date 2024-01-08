@@ -23,6 +23,7 @@ Dette udføres ved anvendelse af både Hardware og software.
 
 
 Datagram
+
 Adressering
 Routing 
 Routing algoritmer
