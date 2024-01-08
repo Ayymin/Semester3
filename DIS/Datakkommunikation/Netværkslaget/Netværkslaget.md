@@ -17,6 +17,10 @@ Dette udføres ved anvendelse af både Hardware og software.
 #### <mark class="hltr-red">Grundlæggende Koncepter</mark>
 
 <mark class="hltr-red">Datagram</mark>
+Internettet er et datagram netværk
+Hver gang et end system vil sende ne pakke, stempler den pakken med destinationsadressen
+for pakken og putter derefter pakken ud i netværket. Destinationen er typisk en IP-adresse, som indentificerer modtageren af pakken.
+
 
 
 
