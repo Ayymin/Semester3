@@ -43,6 +43,8 @@ Transmission Control Protocol (TCP) er afgørende for at sikre, at al data modta
 3. Afsenderen sender en ACK til modtageren.
 Efter denne håndtryksproces kan data leveres. TCP er også i stand til at genoverføre tabte datapakker for a sikre pålidelig overførsel. Dette kaldes for Retransmission.
 
+TCA nedbryder datastrømme i mindre enheder. Kendt som "segmenter"
+
 
 <mark class="hltr-cyan">Retransmission</mark>
 Når afsenderen sender en datarammer, registrerer den en time-out periode. Hvis den ikke modtager en acknowledgement fra modtageren inden for denne tidsgrænse, antager den, at rammen er gået tabt og sender pakken igen. 
@@ -58,6 +60,8 @@ Det er områder som filoverførsel, webbrowsing, e-mails og applikationer der kr
 User Datagram Protocol (UDP) bruges også til at sende og modtage data. Forskellen er at UDP er connection-less og garanterer ikke datalevering. Det kan beskrives som "Fire and forget", hvor afsendere sender data til modtageren uden at forvente acknowledgement fra modtageren. Opgaven betragtes som fuldfør efter at dataet er blevet skudt. 
 
 På trods af dette, kan UDPs tilgang beskrives som "Best effort". Protokollen gøre sit bedste for at levere data hurtigst som muligt, da prioriteten er på hastighed og ikke dataintegritet. Det vil sige at der ikke er tjeks, som vi kender fra TCP som for eksempel 3 Way Handshake eller acknowledgement til når datarammer bliver modtaget. 
+
+TCA nedbryder datastrømme i mindre enheder. Kendt som "datagrammer"
 
 <mark class="hltr-red">Anvendelser</mark>
 Realtime applikationer fx Video og lydstreaming, online gaming. Generelt situationer, hvor øjeblikkelig respons er vigtigere end fuldstændig dataintegritet. 
